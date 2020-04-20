@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This is the repo for Route Planning project in which we find a route planner that plots a path between two points on a map using real map data from the OpenStreeMap project using 2D graphics library IO2D and A* Search Algorithm.
 
 <img src="map.png" width="600" height="450" />
 
@@ -8,14 +8,14 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/rawat-divyanshu/OpenStreetMap-Route-Planner.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git git@github.com:rawat-divyanshu/OpenStreetMap-Route-Planner.git --recurse-submodules
 ```
 
-## Dependencies for Running Locally
+## Dependencies required for Running
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
